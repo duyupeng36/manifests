@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <remote name="origin" fetch="ssh://git@github.com"  review="ssh://git@github.com"/>
+    
+    <default remote="origin" revision="master" sync-j="16"/>
+
+    <!-- manifests -->
+    <project name="duyupeng36/manifests" path="manifests" revision="master"/>
+   
+    <!-- roadmap.sh -->
+    <!--pick-a-language-->
+    <project name="duyupeng36/pick-a-language-c" path="roadmap.sh/markdown/computer-science/pick-a-language/modern-c" revision="master"/>
+    <project name="duyupeng36/pick-a-language-cpp" path="roadmap.sh/markdown/computer-science/pick-a-language/modern-c-plus-plus" revision="master"/>
+
+    <project name="duyupeng36/pick-a-language-c-practice" path="roadmap.sh/practice/computer-science/pick-a-language/modern-c" revision="master"/>
+    <project name="duyupeng36/pick-a-language-cpp-practice" path="roadmap.sh/practice/computer-science/pick-a-language/modern-c-plus-plus" revision="master"/>
+
+</manifest>
