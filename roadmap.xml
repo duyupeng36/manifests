@@ -6,10 +6,10 @@
 
     <!-- roadmap.sh -->
     <!--pick-a-language-->
-    <project name="duyupeng36/pick-a-language-c" path="roadmap.sh/markdown/computer-science/pick-a-language/modern-c" revision="master"/>
-    <project name="duyupeng36/pick-a-language-cpp" path="roadmap.sh/markdown/computer-science/pick-a-language/modern-c-plus-plus" revision="master"/>
+    <project name="duyupeng36/modern-c" path="roadmap.sh/markdown/computer-science/pick-a-language/modern-c" revision="master"/>
+    <project name="duyupeng36/modern-cpp" path="roadmap.sh/markdown/computer-science/pick-a-language/modern-c-plus-plus" revision="master"/>
 
-    <project name="duyupeng36/pick-a-language-c-practice" path="roadmap.sh/practice/computer-science/pick-a-language/modern-c" revision="master"/>
-    <project name="duyupeng36/pick-a-language-cpp-practice" path="roadmap.sh/practice/computer-science/pick-a-language/modern-c-plus-plus" revision="master"/>
+    <project name="duyupeng36/modern-c-practice" path="roadmap.sh/practice/computer-science/pick-a-language/modern-c" revision="master"/>
+    <project name="duyupeng36/modern-cpp-practice" path="roadmap.sh/practice/computer-science/pick-a-language/modern-c-plus-plus" revision="master"/>
 
 </manifest>
