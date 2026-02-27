@@ -4,6 +4,9 @@
     
     <default remote="origin" revision="master" sync-j="16"/>
 
+    <!---->
+    <project name="duyupeng36/vscode" path=".vscode" revision="master"/>
+
     <!-- roadmap.sh -->
     <!--pick-a-language-->
     <project name="duyupeng36/modern-c" path="roadmap.sh/markdown/computer-science/pick-a-language/modern-c" revision="master"/>
