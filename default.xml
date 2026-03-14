@@ -7,7 +7,9 @@
     <!---->
     <project name="duyupeng36/vscode" path=".vscode" revision="master"/>
 
-    <!-- roadmap.sh -->
+    <!-- computer-science -->
+    <!-- Introduction to Computer Science -->
+    <project name="duyupeng36/intro-computer-science" path="computer-science/intro-computer-science" revision="master"/>
     <!--pick-a-language-->
     <project name="duyupeng36/modern-cpp" path="computer-science/pick-a-language/modern-c-plus-plus" revision="master"/>
 </manifest>
