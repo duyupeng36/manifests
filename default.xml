@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <remote name="origin" fetch="ssh://duyupeng36@review.gerrithub.io:29418"  review="ssh://duyupeng36@review.gerrithub.io:29418"/>
+    
+    <default remote="origin" revision="master" sync-j="16"/>
+
+    <!---->
+    <project name="duyupeng36/vscode" path=".vscode" revision="master"/>
+
+    <!-- roadmap.sh -->
+    <!--pick-a-language-->
+    <project name="duyupeng36/modern-cpp" path="computer-science/pick-a-language/modern-c-plus-plus" revision="master"/>
+</manifest>
