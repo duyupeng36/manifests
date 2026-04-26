@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <remote name="origin" fetch="git@github.com"/>
+
+    <default remote="origin" revision="master" sync-j="16"/>
+
+    <!-- computer-science -->
+    <!--pick-a-language-->
+    <project name="duyupeng36/modern-c" path="duyupeng36/computer-science/pick-a-language/modern-c" revision="master"/>
+    <project name="duyupeng36/modern-cpp" path="duyupeng36/computer-science/pick-a-language/modern-cpp" revision="master"/>
+
+</manifest>
