@@ -6,7 +6,7 @@
 
     <!-- computer-science -->
     <!--pick-a-language-->
-    <project name="duyupeng36/modern-c" path="computer-science/pick-a-language/modern-c" revision="master"/>
-    <project name="duyupeng36/modern-cpp" path="computer-science/pick-a-language/modern-cpp" revision="master"/>
+    <project name="duyupeng36/modern-c" path="computer-science/language/modern-c" revision="master"/>
+    <project name="duyupeng36/modern-cpp" path="computer-science/language/modern-cpp" revision="master"/>
 
 </manifest>
